@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Product_Catalog",
+    "\\Product_Catalog\\Data",
+    "\\Product_Catalog\\Models",
+    "\\Product_Catalog\\Models\\Entities"
+  ],
+  "SelectedNode": "\\Product_Catalog\\Models\\Entities\\Category.cs",
+  "PreviewInSolutionExplorer": false
+}
